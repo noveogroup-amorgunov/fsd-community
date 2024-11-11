@@ -6,13 +6,13 @@ Examples are build on React.
 
 ## List
 
-Loading...
+- **[examples/base-app-layout](./examples/base-app-layout)** - shows how works with layout
 
 ## Roadmap
 
 Base examples
 
-- [ ] examples/base-app-layout
+- [x] examples/base-app-layout
 - [ ] examples/base-api
 - [ ] examples/base-modal-manager
 - [ ] examples/base-i18n
@@ -22,6 +22,7 @@ Base examples
 - [ ] examples/base-page-sliced
 - [ ] examples/base-store-composition-root
 - [ ] examples/base-pub-sub-for-shared
+- [ ] ...
 
 Frameworks:
 
