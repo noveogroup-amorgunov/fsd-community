@@ -22,6 +22,7 @@ Base examples
 - [ ] examples/base-page-sliced
 - [ ] examples/base-store-composition-root
 - [ ] examples/base-pub-sub-for-shared
+- [ ] ...
 
 Frameworks:
 
