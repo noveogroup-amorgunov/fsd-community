@@ -2,13 +2,9 @@ export function AboutPage() {
   return (
     <main>
       <h1>About</h1>
-      <p>
-        Visit
-        {' '}
-        <a href="https://github.com/TODO">feature-sliced/examples</a>
-        {' '}
-        to see more examples.
-      </p>
+      This project is created for demonstrating how you can work with methology FSD. You can find more examples in
+      {' '}
+      <a href="https://fsd-community.netlify.app">https://fsd-community.netlify.app</a>
     </main>
   )
 }
