@@ -19,7 +19,11 @@ export function AppLayout({ children }: Props) {
   return (
     <Layout
       headerSlot={<Header />}
-      footerSlot={<div>footer slot</div>}
+      footerSlot={(
+        <div>
+          <a href="https://github.com/noveogroup-amorgunov/fsd-community/tree/main/examples/base-app-layout">Github repo</a>
+        </div>
+      )}
     >
       {children}
     </Layout>
