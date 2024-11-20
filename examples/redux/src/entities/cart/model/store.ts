@@ -73,6 +73,10 @@ export const selectTotalPrice = createSelector(
   },
 )
 
+/**
+ * 🔊 Example how you should inject local redux-slice to redux,
+ * if you want use redux as modular state manager
+ */
 rootReducer.inject(cartStore)
 
 export const { addItem, removeItem } = cartStore.actions
